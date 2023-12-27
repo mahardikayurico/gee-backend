@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gee-landcover",
+  "private_key_id": "c1a8c5ff098e5301aff6c00c9705e46d30c57b37",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDwO6LCz/xDVfhI\nCAtkda+/ok0VE9a5Dc4tNABj0Qyq/dZYsOITWr+6LFu+iDhxKUZ0Ke1E1A0UNGIz\nyNJ8VPm619EUJxTOTjy7qKqGlRqmcVJPPgWfzmqi5hHJxdy5mbpQAR4lMeb2H2nX\nudKx3w3oJeIk7NOyonHJeBM79HjTJ3BJD2KIRgbupbzu37yALzwxPmCt0fLZ9yPW\nCVMAHwaWe0rY3RwBhdvZJ7HrRbRAcFHTXPlsTRHRznl9r0RXjSYTv8eVtRBk0/Sb\n5nRVpbkpCbBd1Y3tpwsH8tU6vXdx8nr46pBw9QufEGMpKYhHvh5hqCoS6AND+Mtq\nfcbeu5tLAgMBAAECggEACP1qU1j+KzTp5CQs7Pb8ezLjKJFD/UvXddiW1SVrEHEM\nVuhTpX7FYv2q9z/YwN9XDBzPjL5UuPdW33I58j4p1ESkRdlKjYfe/PTMYNnuk+D0\nwBNlmXvbgLoUW1Uks+tdTgYkryalant1dgW1rUNYHWJhipk0OOCcWno8WgeFh/1E\nxb6F5omnF2DUI523NpyyLywjHl7V7ZbBm62kGaETzgPQxelTYVDo5YbmrTS4NHEe\niGs84kjzQ62Gv6XETDa0+XAzpe7N05k9DOBuCXT87A1Li6IB0NuDDGLg2FlNUYFo\nA75877+5gDeZOyjfaKH/WHYxy3HfAJ3M/SAvKGo4BQKBgQD8GCVIbM8Tt5U1Gw1f\njOla3rQ8xY7VOifNFQY6ErLwCDO4u7HG5e+cSm7Xj1Uls46dkfxztab1ItvYVlPk\n1s2tGtCPrdEFhfyf+ehQFVSmB2iTNv/PvudgNn6kSSnbgrhhmydIaeDmd2k6KrLq\n50xEL6mM2cq2CEP6cUAkan0FLQKBgQDz9HIZKVeRxSN5baVJjY+YlLy8W7cAj7c0\nrf0DmuOCbSAVdOSicOPVxYtfb8iJAEu1Pjef6UrFgo31okRCBEU4WA+5iSr++x9J\njl7p9wl6/RKRfpBH+5ER6ETvAHzwxBfb+SMWG5K8aY+F0OOizdkkT8q1ekjVxJLG\nwHAtvkPdVwKBgQCd8+cQXRTWjtWPY7baYqkoBZg657HaCkk752tyYZr6aLk3i2sV\na6bZb43JxIYeTEYUlo7uVSgaOlAzWcvQ+4H9b2q0S71Gz6/88JHN87+JE+VDMFfS\nbBP/JcXt2+W9I0ex6IwRhD2lSbaF+pEGPAx+QLrkhOXNbpphRiphZtOUtQKBgQCr\ne8VIkpsPyLfq/3wUfAHYi5UwAnhdWKi7yyHziskqQXMwIf8lgJ1nA3m5GGaqhx6w\nxI9tRRxeQitv4ySAE2hk9uH21cj3e6a+mel2JUTwwzxuMb1SHDAZml/6cSliRTVQ\nV4ymWbOH5dwRgIjDRFfDAqPHdbIFMizKsTMptHkX+QKBgQCBfGhgvrsQJJX0Fa8g\nScm2bxzroKdQomB9ZtcgZNQZf9+B3Zs02JXvJtfjtvXKQPmeWFjVGMYiQcVMkFNH\nJqxB2aE/WFFPXNq/TX1fxQFzDu13c0T8WwaK9BZylxgL38X5Q6OnYHq1CHRgv0hl\nGTfeadVcHAK6UUEhfFikNP0mYg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "yurico-gee-landcover@gee-landcover.iam.gserviceaccount.com",
+  "client_id": "105205420049659298045",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yurico-gee-landcover%40gee-landcover.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

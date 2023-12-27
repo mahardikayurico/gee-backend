@@ -1,0 +1,40 @@
+{
+  "name": "backend-gee",
+  "version": "1.0.0",
+  "description": "backend for gee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "prettier": "prettier --check **/*.js",
+    "prettier:fix": "prettier --write **/*.js",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mahardikayurico/gee-backend.git"
+  },
+  "keywords": [
+    "gee",
+    "backend"
+  ],
+  "author": "Mahardika Yurico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahardikayurico/gee-backend/issues"
+  },
+  "homepage": "https://github.com/mahardikayurico/gee-backend#readme",
+  "dependencies": {
+    "@google/earthengine": "^0.1.266",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsdom": "^23.0.1"
+  },
+  "devDependencies": {
+    "husky": "^8.0.0",
+    "nodemon": "^3.0.2"
+  }
+}
